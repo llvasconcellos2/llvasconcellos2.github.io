@@ -11,7 +11,7 @@ meta_author: Vasconcellos Leonardo
 google_verify: C57TQz9TICFJ1XUgDcng4nqNeaPaz0WT6wYr5TpcH_c
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+bing_verify: 177FEFE809CA61D35715C6EB062B90A1
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
