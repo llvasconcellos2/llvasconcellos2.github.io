@@ -15,7 +15,7 @@ _Source code for my portfolio on github._
 
 _This is just the source code._
 
-You can see the portfolio live here [merge](https://llvasconcellos2.github.io) your pull request!
+You can see the portfolio live here [Portfolio](https://llvasconcellos2.github.io)
 
 ### :Lost github account: unfortunatelly
 
@@ -26,6 +26,6 @@ On 2024 I lost access to my old github account but you can my old repos here:
 
 ---
 
-&copy; 2025 Leonardo Lima de Vasconcellos &bull; [Portfolio](https://llvasconcellos2.github.io)
+&copy; 2025 Leonardo Lima de Vasconcellos
 
 </footer>
