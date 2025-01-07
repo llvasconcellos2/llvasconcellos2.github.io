@@ -11,7 +11,7 @@
     --shadow: oklch(25% .2 var(--hue));
     --highlight: oklch(98% .05 var(--hue));
  }
- 
+
 body {
     overflow-x: hidden;
 }
@@ -502,4 +502,12 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+table.rouge-table {
+    width: 100%;
+}
+
+td.code pre {
+    font-size: 1em;
 }
