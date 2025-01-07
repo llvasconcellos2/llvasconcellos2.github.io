@@ -4,6 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
+--hue: 978;
+--bg: oklch(35% .3 var(--hue));
+--text: oklch(85% .1 var(--hue));
+--shadow: oklch(25% .2 var(--hue));
+--highlight: oklch(98% .05 var(--hue));
+
 body {
     overflow-x: hidden;
 }
@@ -83,8 +90,11 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};]
-    background-img: url(img/header.jpg);
+    /* background: #{{ site.color.primary }}; */
+    background-color: var(--bg);
+    background-image: url(img/header.jpg);
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 header .container {
@@ -103,6 +113,15 @@ header .intro-text .name {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
+    text-shadow:
+        /* regular text-shadow */
+        0 .15ch 15px var(--shadow),
+        /* text-shadow highlight */
+        0 -2px 0 var(--highlight);
+    letter-spacing: -.15ch;
+    line-height: .8;
+    text-align: left;
+    color: var(--text);
 }
 
 header .intro-text .skills {
