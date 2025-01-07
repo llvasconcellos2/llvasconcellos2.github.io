@@ -4,13 +4,14 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-
---hue: 978;
---bg: oklch(35% .3 var(--hue));
---text: oklch(85% .1 var(--hue));
---shadow: oklch(25% .2 var(--hue));
---highlight: oklch(98% .05 var(--hue));
-
+ :root {
+    --hue: 978;
+    --bg: oklch(35% .3 var(--hue));
+    --text: oklch(85% .1 var(--hue));
+    --shadow: oklch(25% .2 var(--hue));
+    --highlight: oklch(98% .05 var(--hue));
+ }
+ 
 body {
     overflow-x: hidden;
 }
