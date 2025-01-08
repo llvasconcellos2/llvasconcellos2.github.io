@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: az-proof/screenshot-2.png
+alt: az proof dashboard
+project-date: Jully 2022
+client: AZ
+category: Web and Modbile Development
+description: A e-commerce dashboard written in flutter with a node.js backend.
+---
