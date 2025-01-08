@@ -508,6 +508,10 @@ table.rouge-table {
     width: 100%;
 }
 
-td.code pre {
+.skills td.code pre {
     font-size: 1em;
+    padding: 6px;
+    margin: 0;
+    border: none;
+    text-align: left;
 }
