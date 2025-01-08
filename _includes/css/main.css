@@ -515,3 +515,9 @@ table.rouge-table {
     border: none;
     text-align: left;
 }
+
+#portfolio > div > div.portfolio-flex-row > div > a > img {
+    object-fit: cover;
+    max-width: 350px;
+    height: 250px;
+}
