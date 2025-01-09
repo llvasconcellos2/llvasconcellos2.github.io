@@ -1,0 +1,12 @@
+---
+layout: default
+title: Sistema Secretaria Bem Estar Social
+modal-id: 1
+date: 2005-06-14
+img: sbes/02-Home.jpg
+alt: az proof dashboard
+project-date: June 2005
+client: Joinville's City Hall
+category: Web Development
+description: SBES - Secretaria do Bem Estar Social - Joinville's City Hall System for Social Help.
+---
