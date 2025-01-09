@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2022-07-29
 img: az-proof/screenshot-2.png
 alt: az proof dashboard
 project-date: Jully 2022
