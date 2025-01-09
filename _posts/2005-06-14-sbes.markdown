@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Sistema Secretaria Bem Estar Social
-modal-id: 1
+modal-id: 3
 date: 2005-06-14
 img: sbes/02-Home.jpg
-alt: az proof dashboard
+alt: Sistema Secretaria Bem Estar Social
 project-date: June 2005
 client: Joinville's City Hall
 category: Web Development

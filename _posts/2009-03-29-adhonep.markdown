@@ -1,0 +1,12 @@
+---
+layout: default
+title: ADHONEP Association Meetup System
+modal-id: 4
+date: 2009-03-29
+img: adhonep/screencapture-house-devhouse-br-showcase-adhonep-desktop-html-2018-07-20-16_39_30.png
+alt: ADHONEP Association Meetup System
+project-date: March 2009
+client: ADHONEP
+category: Web Development
+description: ADHONEP Association Meetup System - https://adhonep.org.br built with ExtJS and CodeIgniter.
+---
