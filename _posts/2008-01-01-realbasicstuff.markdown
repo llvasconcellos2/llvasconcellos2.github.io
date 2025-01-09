@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2008-01-01
-img: realbasic-stuff/VirtualBox_Windows%20XP_25_07_2018_11_32_20.png
+img: realbasic-stuff/screenshot-1.png
 alt: realbasic ide showing a ftp client implementation
 project-date: 2008
 client: Quantic Solutions
